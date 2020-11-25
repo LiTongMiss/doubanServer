@@ -10,7 +10,9 @@
   },
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
+    "cheerio-eq": "^1.0.1",
     "debug": "^4.1.1",
+    "iconv-lite": "^0.6.2",
     "koa": "^2.7.0",
     "koa-bodyparser": "^4.2.1",
     "koa-convert": "^1.2.0",
